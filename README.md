@@ -1,6 +1,6 @@
 # JSPlaygrounds
 
-[Show me the demo!](https://stephengrider.github.io/JSPlaygrounds/)
+[Show me the demo!](http://old-slave.surge.sh/)
 
 ### Running Locally
 
@@ -12,6 +12,5 @@
 ### Contributing
 
 Please do!
-
 
 # playground
